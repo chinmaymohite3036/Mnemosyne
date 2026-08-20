@@ -1,6 +1,7 @@
 import whisper
+import json
 
-model = whisper.load_model("large-v2")
+model = whisper.load_model("large-v2", device="cuda")
 
 result = model.transcribe(audio = "audios/sample.mp3",
                           language = "hi",
