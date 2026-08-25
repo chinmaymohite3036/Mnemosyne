@@ -28,10 +28,13 @@ question_embedding = create_embedding([incoming_query])[0]
 # find similarities of question embedding with all chunk embeddings
 #np.vstack creates 2D array from list of 1D arrays, which is required for cosine_similarity function
 similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
-print(similarities)
-top_results = 3
+# print(similarities)
+top_results = 30
 max_indx = similarities.argsort()[::-1][0:top_results]  # Get indices of top similar chunks
-print(max_indx)
+# print(max_indx)
 new_df = df.loc[max_indx]
-print(new_df[["title", "number", "text" ]])
+# print(new_df[["title", "number", "text" ]])
 
+for index, item in new_df.iterrows():
+    print(index, item["title"], item["number"], item["text"], item["start"], item["end"])
+    
