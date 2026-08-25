@@ -1,0 +1,5 @@
+In your Sigma web development course, you'll find an explanation of Core Web Vitals starting from video number 6.
+
+In video 6, specifically at the timestamp of 0:0.0 to 0:5.2, you'll get an overview of why Core Web Vitals are important. Later, from 1:03.0 to 1:05.12, they'll introduce Core Web Vitals, and around 1:42.08 to 1:43.08, some examples of Core Web Vitals will be discussed.
+
+I recommend watching video 6 for the detailed explanation of Core Web Vitals.
