@@ -1,1 +1,1245 @@
-{"chunks": [{"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 0.0, "end": 3.0, "text": " Guys, in video number 12, I gave you an exercise"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 3.0, "end": 6.24, "text": " and I told you all to post your solution."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 6.24, "end": 10.16, "text": " In today's video, I will solve that exercise and tell you."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 10.16, "end": 14.48, "text": " And I am going to give a shoutout to all those people who have solved that exercise."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 14.48, "end": 15.76, "text": " Let's go to the computer screen."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 15.76, "end": 18.36, "text": " I am really very excited to see your solutions."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 18.36, "end": 19.76, "text": " Let's roll the intro."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 19.76, "end": 28.68, "text": " \ud83c\udfb6 Music \ud83c\udfb6"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 28.68, "end": 30.68, "text": " So guys, I have come to my computer screen."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 30.68, "end": 34.68, "text": " And the first thing I will do is make a folder named video 16."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 34.68, "end": 36.68, "text": " So I will write here video 16."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 36.68, "end": 39.44, "text": " And after opening it, right click on it, open with code."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 39.44, "end": 42.88, "text": " And after doing this, I will make a boilerplate template here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 42.88, "end": 45.68, "text": " Today we are going to do a little special work."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 45.68, "end": 47.44, "text": " Because today everyone will get a shoutout."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 47.44, "end": 52.08, "text": " So first of all, if you have not accessed the playlist, then do access it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 52.08, "end": 54.56, "text": " Now I am going to open this video here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 54.56, "end": 57.56, "text": " So I opened this video in which I had given you exercise."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 57.56, "end": 61.96, "text": " And this exercise was about a pure HTML media player."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 61.96, "end": 64.56, "text": " So I told you to make a media player in this."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 64.56, "end": 67.56, "text": " And here I am doing sort by new as first."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 67.56, "end": 69.96000000000001, "text": " And I will come down completely."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 69.96000000000001, "end": 72.96000000000001, "text": " And after coming down completely, what I will do here is"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 72.96000000000001, "end": 76.56, "text": " I will give a shoutout to all those people who have solved this."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 76.56, "end": 78.96000000000001, "text": " So guys, I have scrolled all the way down."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 78.96000000000001, "end": 80.96000000000001, "text": " It took me a long time to scroll, to be honest."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 80.96000000000001, "end": 81.96000000000001, "text": " I will give a shoutout to everyone."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 81.96000000000001, "end": 85.56, "text": " But before that, I want to solve this question for you."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 85.56, "end": 90.96000000000001, "text": " So here you can see 1.mp3, 1.mp4, 2.mp3, all the way till 5.mp3."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 90.96000000000001, "end": 93.56, "text": " So what I will do first is I will put an h1."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 93.56, "end": 95.56, "text": " My videos for the day."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 95.56, "end": 97.96000000000001, "text": " Okay, I will write h1 here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 97.96000000000001, "end": 103.56, "text": " And here I will write some audios for the day."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 104.56, "end": 108.56, "text": " Okay, I do videos and audios for the day."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 108.56, "end": 112.36, "text": " What I will do here is I will toggle the screencast mode."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 112.36, "end": 114.36, "text": " Because it looks a little easy to you."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 114.36, "end": 117.36, "text": " And here some videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 117.36, "end": 121.36, "text": " So I wrote an h1 and here I put an h2."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 121.36, "end": 125.36, "text": " And here I will simply put videos in a div."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 125.36, "end": 127.36, "text": " So as soon as I write the video tag here,"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 127.36, "end": 129.36, "text": " And after that I will write the controls here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 129.36, "end": 134.36, "text": " So I will actually be able to watch this 1.mp4."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 134.36, "end": 138.36, "text": " What I will do simply is I will press the shift, alt and down arrow."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 138.36, "end": 141.36, "text": " And here I will write 2, then I will write 3 here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 141.36, "end": 142.36, "text": " Then I will write 4 here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 142.36, "end": 144.36, "text": " And then I will write 5 here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 144.36, "end": 146.36, "text": " And I will do the same thing for audio as well."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 146.36, "end": 148.36, "text": " And here I will write audio."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 148.36, "end": 150.36, "text": " And here I will write 1.mp3."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 150.36, "end": 152.36, "text": " And after that I will write controls."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 152.36, "end": 155.36, "text": " Okay, and after that I will do the same thing."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 155.36, "end": 158.36, "text": " And I will replicate it 5 times."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 158.36, "end": 161.36, "text": " I did 2, 3, 4."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 161.36, "end": 162.36, "text": " And here I will do 5."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 162.36, "end": 166.36, "text": " And obviously I will try to show you by previewing it here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 166.36, "end": 168.36, "text": " Now there is a problem here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 168.36, "end": 172.36, "text": " The problem is that it is taking the full width."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 172.36, "end": 174.36, "text": " And it is becoming very problematic for me."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 174.36, "end": 176.36, "text": " Maybe because I am zoomed in."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 176.36, "end": 178.36, "text": " Okay, so it is not becoming problematic actually."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 178.36, "end": 182.36, "text": " Otherwise we would have reset it from CSS."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 182.36, "end": 184.36, "text": " But for now I think we are good."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 184.36, "end": 187.36, "text": " We will see how to resize it in CSS."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 187.36, "end": 189.36, "text": " How things can be improved."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 189.36, "end": 191.36, "text": " But I think our videos have come here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 191.36, "end": 193.36, "text": " And some audios for the day have also come."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 193.36, "end": 196.36, "text": " So you can see the audios."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 199.36, "end": 202.36, "text": " If you have put songs, then songs will come."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 202.36, "end": 204.36, "text": " I have not put songs."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 204.36, "end": 206.36, "text": " Here you can see that my videos are playing."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 210.36, "end": 212.36, "text": " And these are the videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 215.36, "end": 217.36, "text": " And this is my personal favorite."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 221.36, "end": 223.36, "text": " So you must have put your favorite videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 223.36, "end": 225.36, "text": " But that was pretty much about it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 225.36, "end": 227.36, "text": " And many people are saying that this is very easy."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 227.36, "end": 229.36, "text": " This exercise was so simple."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 229.36, "end": 231.36, "text": " We will raise the bar like anything."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 231.36, "end": 233.36, "text": " Remember my words."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 233.36, "end": 235.36, "text": " Now we will give shoutouts."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 235.36, "end": 237.36, "text": " Shoutout to Soumya172."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 237.36, "end": 239.36, "text": " Shoutout to Code with Rohit who accepted the challenge."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 239.36, "end": 245.36, "text": " Here multiatmos, desiready, shantop, Harsh Gularia."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 245.36, "end": 249.36, "text": " Then Hellstar Kun, Team Rewa, Kulsoom Saqibward."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 249.36, "end": 251.36, "text": " Then shoutout to Bobby01th."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 251.36, "end": 253.36, "text": " Shoutout to Mohan2492."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 253.36, "end": 255.36, "text": " Shoutout to Prakash."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 255.36, "end": 257.36, "text": " Shoutout to Arnab."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 257.36, "end": 259.36, "text": " Then shoutout to Jilan."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 259.36, "end": 261.36, "text": " Shoutout to HR."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 261.36, "end": 263.36, "text": " Shoutout to Nikhil L."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 263.36, "end": 267.36, "text": " And here I will give shoutout to those who have solved."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 267.36, "end": 271.36, "text": " I will give shoutout to those who have solved."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 271.36, "end": 273.36, "text": " Has anyone solved?"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 273.36, "end": 275.36, "text": " I will see the replies."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 275.36, "end": 277.36, "text": " Has anyone solved?"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 277.36, "end": 279.36, "text": " No one has solved yet."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 279.36, "end": 281.36, "text": " Has anyone solved?"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 281.36, "end": 283.36, "text": " No one has solved yet."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 283.36, "end": 287.36, "text": " Ok so Coder Anderson."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 287.36, "end": 289.36, "text": " Congratulations to you."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 289.36, "end": 291.36, "text": " You have won 7 crore rupees."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 291.36, "end": 293.36, "text": " You have used the table for the first time."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 293.36, "end": 295.36, "text": " Which is fine."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 295.36, "end": 297.36, "text": " The thing is that tables are not ideally used."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 297.36, "end": 299.36, "text": " To be honest."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 299.36, "end": 301.36, "text": " But I think we are good."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 301.36, "end": 305.36, "text": " From 1 to 6, he has shown the videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 305.36, "end": 307.36, "text": " He has also given width and height in the video."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 307.36, "end": 309.36, "text": " Which is a great thing."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 309.36, "end": 311.36, "text": " I will also do it in my video."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 311.36, "end": 317.36, "text": " In fact, I will write width is equal to 239."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 317.36, "end": 319.36, "text": " Let's see how it changes."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 319.36, "end": 321.36, "text": " It is looking better."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 321.36, "end": 323.36, "text": " Why didn't I think of this idea?"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 323.36, "end": 325.36, "text": " When I was solving."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 325.36, "end": 327.36, "text": " Shoutout to Cody Anderson."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 327.36, "end": 329.36, "text": " Shoutout to you."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 329.36, "end": 331.36, "text": " Shoutout to Cody Anderson."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 331.36, "end": 333.36, "text": " Now who has solved the next one?"}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 333.36, "end": 335.36, "text": " Saif0981."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 335.36, "end": 337.36, "text": " Shoutout to him too."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 337.36, "end": 339.36, "text": " You have solved it beautifully."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 339.36, "end": 341.36, "text": " Very good."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 341.36, "end": 343.36, "text": " Very good."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 343.36, "end": 345.36, "text": " Shoutout to Cesar Murti."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 345.36, "end": 347.36, "text": " Shoutout to him too."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 347.36, "end": 349.36, "text": " Shoutout to Jheel Maheshwari."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 349.36, "end": 351.36, "text": " I want to say that many of you didn't solve it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 351.36, "end": 355.36, "text": " This was not the participation I was looking for."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 355.36, "end": 357.36, "text": " I wanted more participation."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 357.36, "end": 359.36, "text": " I wanted everyone to solve it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 359.36, "end": 361.36, "text": " Very few people have solved it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 361.36, "end": 365.36, "text": " I want more people to solve it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 365.36, "end": 367.36, "text": " Sakshim Jain has solved it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 367.36, "end": 371.36, "text": " I saw that very few people have solved it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 371.36, "end": 375.36, "text": " I don't see any other code here."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 375.36, "end": 379.36, "text": " In the coming videos, I want everyone to solve the challenges."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 379.36, "end": 383.36, "text": " Whoever solves it first, I will give him a shoutout in the comments."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 383.36, "end": 385.36, "text": " You have to respond a little fast."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 385.36, "end": 389.36, "text": " Shoutout to all those who are writing the challenge accepted."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 389.36, "end": 391.36, "text": " I hope you are enjoying watching this course."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 391.36, "end": 395.36, "text": " Access all the source code and playlists."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 395.36, "end": 397.36, "text": " The playlist is very popular."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 397.36, "end": 399.36, "text": " A few days ago, there were two videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 399.36, "end": 401.36, "text": " One video was about gpc."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 401.36, "end": 403.36, "text": " But now I have filled the videos."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 403.36, "end": 407.36, "text": " Your enthusiasm should also be constant."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 407.36, "end": 409.36, "text": " If you haven't accessed the source code, then you have to do it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 409.36, "end": 411.36, "text": " That's all for now."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 411.36, "end": 413.36, "text": " Thank you so much for watching this video."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 413.36, "end": 415.36, "text": " I will see you next time."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 425.36, "end": 427.36, "text": " Thank you for watching it."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 427.36, "end": 429.36, "text": " Like and subscribe to this channel."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 429.36, "end": 431.36, "text": " Share this video with your friends."}, {"number": "16", "title": "Exercise 1 - Solution and Shoutouts", "start": 431.36, "end": 433.36, "text": " Thank you."}], "text": " Guys, in video number 12, I gave you an exercise and I told you all to post your solution. In today's video, I will solve that exercise and tell you. And I am going to give a shoutout to all those people who have solved that exercise. Let's go to the computer screen. I am really very excited to see your solutions. Let's roll the intro. \ud83c\udfb6 Music \ud83c\udfb6 So guys, I have come to my computer screen. And the first thing I will do is make a folder named video 16. So I will write here video 16. And after opening it, right click on it, open with code. And after doing this, I will make a boilerplate template here. Today we are going to do a little special work. Because today everyone will get a shoutout. So first of all, if you have not accessed the playlist, then do access it. Now I am going to open this video here. So I opened this video in which I had given you exercise. And this exercise was about a pure HTML media player. So I told you to make a media player in this. And here I am doing sort by new as first. And I will come down completely. And after coming down completely, what I will do here is I will give a shoutout to all those people who have solved this. So guys, I have scrolled all the way down. It took me a long time to scroll, to be honest. I will give a shoutout to everyone. But before that, I want to solve this question for you. So here you can see 1.mp3, 1.mp4, 2.mp3, all the way till 5.mp3. So what I will do first is I will put an h1. My videos for the day. Okay, I will write h1 here. And here I will write some audios for the day. Okay, I do videos and audios for the day. What I will do here is I will toggle the screencast mode. Because it looks a little easy to you. And here some videos. So I wrote an h1 and here I put an h2. And here I will simply put videos in a div. So as soon as I write the video tag here, And after that I will write the controls here. So I will actually be able to watch this 1.mp4. What I will do simply is I will press the shift, alt and down arrow. And here I will write 2, then I will write 3 here. Then I will write 4 here. And then I will write 5 here. And I will do the same thing for audio as well. And here I will write audio. And here I will write 1.mp3. And after that I will write controls. Okay, and after that I will do the same thing. And I will replicate it 5 times. I did 2, 3, 4. And here I will do 5. And obviously I will try to show you by previewing it here. Now there is a problem here. The problem is that it is taking the full width. And it is becoming very problematic for me. Maybe because I am zoomed in. Okay, so it is not becoming problematic actually. Otherwise we would have reset it from CSS. But for now I think we are good. We will see how to resize it in CSS. How things can be improved. But I think our videos have come here. And some audios for the day have also come. So you can see the audios. If you have put songs, then songs will come. I have not put songs. Here you can see that my videos are playing. And these are the videos. And this is my personal favorite. So you must have put your favorite videos. But that was pretty much about it. And many people are saying that this is very easy. This exercise was so simple. We will raise the bar like anything. Remember my words. Now we will give shoutouts. Shoutout to Soumya172. Shoutout to Code with Rohit who accepted the challenge. Here multiatmos, desiready, shantop, Harsh Gularia. Then Hellstar Kun, Team Rewa, Kulsoom Saqibward. Then shoutout to Bobby01th. Shoutout to Mohan2492. Shoutout to Prakash. Shoutout to Arnab. Then shoutout to Jilan. Shoutout to HR. Shoutout to Nikhil L. And here I will give shoutout to those who have solved. I will give shoutout to those who have solved. Has anyone solved? I will see the replies. Has anyone solved? No one has solved yet. Has anyone solved? No one has solved yet. Ok so Coder Anderson. Congratulations to you. You have won 7 crore rupees. You have used the table for the first time. Which is fine. The thing is that tables are not ideally used. To be honest. But I think we are good. From 1 to 6, he has shown the videos. He has also given width and height in the video. Which is a great thing. I will also do it in my video. In fact, I will write width is equal to 239. Let's see how it changes. It is looking better. Why didn't I think of this idea? When I was solving. Shoutout to Cody Anderson. Shoutout to you. Shoutout to Cody Anderson. Now who has solved the next one? Saif0981. Shoutout to him too. You have solved it beautifully. Very good. Very good. Shoutout to Cesar Murti. Shoutout to him too. Shoutout to Jheel Maheshwari. I want to say that many of you didn't solve it. This was not the participation I was looking for. I wanted more participation. I wanted everyone to solve it. Very few people have solved it. I want more people to solve it. Sakshim Jain has solved it. I saw that very few people have solved it. I don't see any other code here. In the coming videos, I want everyone to solve the challenges. Whoever solves it first, I will give him a shoutout in the comments. You have to respond a little fast. Shoutout to all those who are writing the challenge accepted. I hope you are enjoying watching this course. Access all the source code and playlists. The playlist is very popular. A few days ago, there were two videos. One video was about gpc. But now I have filled the videos. Your enthusiasm should also be constant. If you haven't accessed the source code, then you have to do it. That's all for now. Thank you so much for watching this video. I will see you next time. Thank you for watching it. Like and subscribe to this channel. Share this video with your friends. Thank you."}
+{
+  "chunks": [
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Guys, in video number 12, I gave you an exercise",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=0"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 3.0,
+      "end": 6.24,
+      "text": " and I told you all to post your solution.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=3"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 6.24,
+      "end": 10.16,
+      "text": " In today's video, I will solve that exercise and tell you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=6"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 10.16,
+      "end": 14.48,
+      "text": " And I am going to give a shoutout to all those people who have solved that exercise.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=10"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 14.48,
+      "end": 15.76,
+      "text": " Let's go to the computer screen.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=14"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 15.76,
+      "end": 18.36,
+      "text": " I am really very excited to see your solutions.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=15"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 18.36,
+      "end": 19.76,
+      "text": " Let's roll the intro.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=18"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 19.76,
+      "end": 28.68,
+      "text": " 🎶 Music 🎶",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=19"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 28.68,
+      "end": 30.68,
+      "text": " So guys, I have come to my computer screen.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=28"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 30.68,
+      "end": 34.68,
+      "text": " And the first thing I will do is make a folder named video 16.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=30"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 34.68,
+      "end": 36.68,
+      "text": " So I will write here video 16.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=34"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 36.68,
+      "end": 39.44,
+      "text": " And after opening it, right click on it, open with code.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=36"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 39.44,
+      "end": 42.88,
+      "text": " And after doing this, I will make a boilerplate template here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=39"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 42.88,
+      "end": 45.68,
+      "text": " Today we are going to do a little special work.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=42"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 45.68,
+      "end": 47.44,
+      "text": " Because today everyone will get a shoutout.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=45"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 47.44,
+      "end": 52.08,
+      "text": " So first of all, if you have not accessed the playlist, then do access it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=47"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 52.08,
+      "end": 54.56,
+      "text": " Now I am going to open this video here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=52"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 54.56,
+      "end": 57.56,
+      "text": " So I opened this video in which I had given you exercise.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=54"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 57.56,
+      "end": 61.96,
+      "text": " And this exercise was about a pure HTML media player.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=57"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 61.96,
+      "end": 64.56,
+      "text": " So I told you to make a media player in this.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=61"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 64.56,
+      "end": 67.56,
+      "text": " And here I am doing sort by new as first.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=64"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 67.56,
+      "end": 69.96000000000001,
+      "text": " And I will come down completely.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=67"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 69.96000000000001,
+      "end": 72.96000000000001,
+      "text": " And after coming down completely, what I will do here is",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=69"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 72.96000000000001,
+      "end": 76.56,
+      "text": " I will give a shoutout to all those people who have solved this.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=72"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 76.56,
+      "end": 78.96000000000001,
+      "text": " So guys, I have scrolled all the way down.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=76"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 78.96000000000001,
+      "end": 80.96000000000001,
+      "text": " It took me a long time to scroll, to be honest.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=78"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 80.96000000000001,
+      "end": 81.96000000000001,
+      "text": " I will give a shoutout to everyone.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=80"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 81.96000000000001,
+      "end": 85.56,
+      "text": " But before that, I want to solve this question for you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=81"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 85.56,
+      "end": 90.96000000000001,
+      "text": " So here you can see 1.mp3, 1.mp4, 2.mp3, all the way till 5.mp3.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=85"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 90.96000000000001,
+      "end": 93.56,
+      "text": " So what I will do first is I will put an h1.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=90"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 93.56,
+      "end": 95.56,
+      "text": " My videos for the day.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=93"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 95.56,
+      "end": 97.96000000000001,
+      "text": " Okay, I will write h1 here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=95"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 97.96000000000001,
+      "end": 103.56,
+      "text": " And here I will write some audios for the day.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=97"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 104.56,
+      "end": 108.56,
+      "text": " Okay, I do videos and audios for the day.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=104"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 108.56,
+      "end": 112.36,
+      "text": " What I will do here is I will toggle the screencast mode.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=108"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 112.36,
+      "end": 114.36,
+      "text": " Because it looks a little easy to you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=112"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 114.36,
+      "end": 117.36,
+      "text": " And here some videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=114"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 117.36,
+      "end": 121.36,
+      "text": " So I wrote an h1 and here I put an h2.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=117"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 121.36,
+      "end": 125.36,
+      "text": " And here I will simply put videos in a div.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=121"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 125.36,
+      "end": 127.36,
+      "text": " So as soon as I write the video tag here,",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=125"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 127.36,
+      "end": 129.36,
+      "text": " And after that I will write the controls here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=127"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 129.36,
+      "end": 134.36,
+      "text": " So I will actually be able to watch this 1.mp4.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=129"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 134.36,
+      "end": 138.36,
+      "text": " What I will do simply is I will press the shift, alt and down arrow.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=134"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 138.36,
+      "end": 141.36,
+      "text": " And here I will write 2, then I will write 3 here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=138"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 141.36,
+      "end": 142.36,
+      "text": " Then I will write 4 here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=141"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 142.36,
+      "end": 144.36,
+      "text": " And then I will write 5 here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=142"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 144.36,
+      "end": 146.36,
+      "text": " And I will do the same thing for audio as well.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=144"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 146.36,
+      "end": 148.36,
+      "text": " And here I will write audio.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=146"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 148.36,
+      "end": 150.36,
+      "text": " And here I will write 1.mp3.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=148"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 150.36,
+      "end": 152.36,
+      "text": " And after that I will write controls.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=150"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 152.36,
+      "end": 155.36,
+      "text": " Okay, and after that I will do the same thing.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=152"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 155.36,
+      "end": 158.36,
+      "text": " And I will replicate it 5 times.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=155"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 158.36,
+      "end": 161.36,
+      "text": " I did 2, 3, 4.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=158"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 161.36,
+      "end": 162.36,
+      "text": " And here I will do 5.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=161"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 162.36,
+      "end": 166.36,
+      "text": " And obviously I will try to show you by previewing it here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=162"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 166.36,
+      "end": 168.36,
+      "text": " Now there is a problem here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=166"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 168.36,
+      "end": 172.36,
+      "text": " The problem is that it is taking the full width.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=168"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 172.36,
+      "end": 174.36,
+      "text": " And it is becoming very problematic for me.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=172"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 174.36,
+      "end": 176.36,
+      "text": " Maybe because I am zoomed in.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=174"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 176.36,
+      "end": 178.36,
+      "text": " Okay, so it is not becoming problematic actually.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=176"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 178.36,
+      "end": 182.36,
+      "text": " Otherwise we would have reset it from CSS.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=178"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 182.36,
+      "end": 184.36,
+      "text": " But for now I think we are good.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=182"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 184.36,
+      "end": 187.36,
+      "text": " We will see how to resize it in CSS.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=184"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 187.36,
+      "end": 189.36,
+      "text": " How things can be improved.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=187"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 189.36,
+      "end": 191.36,
+      "text": " But I think our videos have come here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=189"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 191.36,
+      "end": 193.36,
+      "text": " And some audios for the day have also come.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=191"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 193.36,
+      "end": 196.36,
+      "text": " So you can see the audios.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=193"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 199.36,
+      "end": 202.36,
+      "text": " If you have put songs, then songs will come.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=199"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 202.36,
+      "end": 204.36,
+      "text": " I have not put songs.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=202"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 204.36,
+      "end": 206.36,
+      "text": " Here you can see that my videos are playing.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=204"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 210.36,
+      "end": 212.36,
+      "text": " And these are the videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=210"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 215.36,
+      "end": 217.36,
+      "text": " And this is my personal favorite.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=215"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 221.36,
+      "end": 223.36,
+      "text": " So you must have put your favorite videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=221"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 223.36,
+      "end": 225.36,
+      "text": " But that was pretty much about it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=223"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 225.36,
+      "end": 227.36,
+      "text": " And many people are saying that this is very easy.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=225"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 227.36,
+      "end": 229.36,
+      "text": " This exercise was so simple.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=227"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 229.36,
+      "end": 231.36,
+      "text": " We will raise the bar like anything.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=229"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 231.36,
+      "end": 233.36,
+      "text": " Remember my words.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=231"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 233.36,
+      "end": 235.36,
+      "text": " Now we will give shoutouts.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=233"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 235.36,
+      "end": 237.36,
+      "text": " Shoutout to Soumya172.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=235"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 237.36,
+      "end": 239.36,
+      "text": " Shoutout to Code with Rohit who accepted the challenge.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=237"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 239.36,
+      "end": 245.36,
+      "text": " Here multiatmos, desiready, shantop, Harsh Gularia.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=239"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 245.36,
+      "end": 249.36,
+      "text": " Then Hellstar Kun, Team Rewa, Kulsoom Saqibward.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=245"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 249.36,
+      "end": 251.36,
+      "text": " Then shoutout to Bobby01th.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=249"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 251.36,
+      "end": 253.36,
+      "text": " Shoutout to Mohan2492.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=251"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 253.36,
+      "end": 255.36,
+      "text": " Shoutout to Prakash.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=253"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 255.36,
+      "end": 257.36,
+      "text": " Shoutout to Arnab.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=255"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 257.36,
+      "end": 259.36,
+      "text": " Then shoutout to Jilan.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=257"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 259.36,
+      "end": 261.36,
+      "text": " Shoutout to HR.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=259"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 261.36,
+      "end": 263.36,
+      "text": " Shoutout to Nikhil L.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=261"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 263.36,
+      "end": 267.36,
+      "text": " And here I will give shoutout to those who have solved.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=263"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 267.36,
+      "end": 271.36,
+      "text": " I will give shoutout to those who have solved.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=267"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 271.36,
+      "end": 273.36,
+      "text": " Has anyone solved?",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=271"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 273.36,
+      "end": 275.36,
+      "text": " I will see the replies.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=273"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 275.36,
+      "end": 277.36,
+      "text": " Has anyone solved?",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=275"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 277.36,
+      "end": 279.36,
+      "text": " No one has solved yet.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=277"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 279.36,
+      "end": 281.36,
+      "text": " Has anyone solved?",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=279"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 281.36,
+      "end": 283.36,
+      "text": " No one has solved yet.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=281"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 283.36,
+      "end": 287.36,
+      "text": " Ok so Coder Anderson.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=283"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 287.36,
+      "end": 289.36,
+      "text": " Congratulations to you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=287"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 289.36,
+      "end": 291.36,
+      "text": " You have won 7 crore rupees.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=289"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 291.36,
+      "end": 293.36,
+      "text": " You have used the table for the first time.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=291"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 293.36,
+      "end": 295.36,
+      "text": " Which is fine.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=293"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 295.36,
+      "end": 297.36,
+      "text": " The thing is that tables are not ideally used.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=295"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 297.36,
+      "end": 299.36,
+      "text": " To be honest.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=297"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 299.36,
+      "end": 301.36,
+      "text": " But I think we are good.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=299"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 301.36,
+      "end": 305.36,
+      "text": " From 1 to 6, he has shown the videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=301"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 305.36,
+      "end": 307.36,
+      "text": " He has also given width and height in the video.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=305"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 307.36,
+      "end": 309.36,
+      "text": " Which is a great thing.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=307"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 309.36,
+      "end": 311.36,
+      "text": " I will also do it in my video.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=309"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 311.36,
+      "end": 317.36,
+      "text": " In fact, I will write width is equal to 239.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=311"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 317.36,
+      "end": 319.36,
+      "text": " Let's see how it changes.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=317"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 319.36,
+      "end": 321.36,
+      "text": " It is looking better.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=319"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 321.36,
+      "end": 323.36,
+      "text": " Why didn't I think of this idea?",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=321"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 323.36,
+      "end": 325.36,
+      "text": " When I was solving.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=323"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 325.36,
+      "end": 327.36,
+      "text": " Shoutout to Cody Anderson.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=325"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 327.36,
+      "end": 329.36,
+      "text": " Shoutout to you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=327"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 329.36,
+      "end": 331.36,
+      "text": " Shoutout to Cody Anderson.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=329"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 331.36,
+      "end": 333.36,
+      "text": " Now who has solved the next one?",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=331"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 333.36,
+      "end": 335.36,
+      "text": " Saif0981.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=333"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 335.36,
+      "end": 337.36,
+      "text": " Shoutout to him too.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=335"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 337.36,
+      "end": 339.36,
+      "text": " You have solved it beautifully.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=337"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 339.36,
+      "end": 341.36,
+      "text": " Very good.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=339"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 341.36,
+      "end": 343.36,
+      "text": " Very good.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=341"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 343.36,
+      "end": 345.36,
+      "text": " Shoutout to Cesar Murti.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=343"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 345.36,
+      "end": 347.36,
+      "text": " Shoutout to him too.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=345"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 347.36,
+      "end": 349.36,
+      "text": " Shoutout to Jheel Maheshwari.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=347"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 349.36,
+      "end": 351.36,
+      "text": " I want to say that many of you didn't solve it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=349"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 351.36,
+      "end": 355.36,
+      "text": " This was not the participation I was looking for.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=351"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 355.36,
+      "end": 357.36,
+      "text": " I wanted more participation.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=355"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 357.36,
+      "end": 359.36,
+      "text": " I wanted everyone to solve it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=357"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 359.36,
+      "end": 361.36,
+      "text": " Very few people have solved it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=359"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 361.36,
+      "end": 365.36,
+      "text": " I want more people to solve it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=361"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 365.36,
+      "end": 367.36,
+      "text": " Sakshim Jain has solved it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=365"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 367.36,
+      "end": 371.36,
+      "text": " I saw that very few people have solved it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=367"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 371.36,
+      "end": 375.36,
+      "text": " I don't see any other code here.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=371"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 375.36,
+      "end": 379.36,
+      "text": " In the coming videos, I want everyone to solve the challenges.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=375"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 379.36,
+      "end": 383.36,
+      "text": " Whoever solves it first, I will give him a shoutout in the comments.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=379"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 383.36,
+      "end": 385.36,
+      "text": " You have to respond a little fast.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=383"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 385.36,
+      "end": 389.36,
+      "text": " Shoutout to all those who are writing the challenge accepted.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=385"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 389.36,
+      "end": 391.36,
+      "text": " I hope you are enjoying watching this course.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=389"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 391.36,
+      "end": 395.36,
+      "text": " Access all the source code and playlists.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=391"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 395.36,
+      "end": 397.36,
+      "text": " The playlist is very popular.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=395"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 397.36,
+      "end": 399.36,
+      "text": " A few days ago, there were two videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=397"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 399.36,
+      "end": 401.36,
+      "text": " One video was about gpc.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=399"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 401.36,
+      "end": 403.36,
+      "text": " But now I have filled the videos.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=401"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 403.36,
+      "end": 407.36,
+      "text": " Your enthusiasm should also be constant.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=403"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 407.36,
+      "end": 409.36,
+      "text": " If you haven't accessed the source code, then you have to do it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=407"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 409.36,
+      "end": 411.36,
+      "text": " That's all for now.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=409"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 411.36,
+      "end": 413.36,
+      "text": " Thank you so much for watching this video.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=411"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 413.36,
+      "end": 415.36,
+      "text": " I will see you next time.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=413"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 425.36,
+      "end": 427.36,
+      "text": " Thank you for watching it.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=425"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 427.36,
+      "end": 429.36,
+      "text": " Like and subscribe to this channel.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=427"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 429.36,
+      "end": 431.36,
+      "text": " Share this video with your friends.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=429"
+    },
+    {
+      "number": "16",
+      "title": "Exercise 1 - Solution and Shoutouts",
+      "start": 431.36,
+      "end": 433.36,
+      "text": " Thank you.",
+      "youtube_url": "https://youtu.be/anGMeDGvZhw?t=431"
+    }
+  ],
+  "text": " Guys, in video number 12, I gave you an exercise and I told you all to post your solution. In today's video, I will solve that exercise and tell you. And I am going to give a shoutout to all those people who have solved that exercise. Let's go to the computer screen. I am really very excited to see your solutions. Let's roll the intro. 🎶 Music 🎶 So guys, I have come to my computer screen. And the first thing I will do is make a folder named video 16. So I will write here video 16. And after opening it, right click on it, open with code. And after doing this, I will make a boilerplate template here. Today we are going to do a little special work. Because today everyone will get a shoutout. So first of all, if you have not accessed the playlist, then do access it. Now I am going to open this video here. So I opened this video in which I had given you exercise. And this exercise was about a pure HTML media player. So I told you to make a media player in this. And here I am doing sort by new as first. And I will come down completely. And after coming down completely, what I will do here is I will give a shoutout to all those people who have solved this. So guys, I have scrolled all the way down. It took me a long time to scroll, to be honest. I will give a shoutout to everyone. But before that, I want to solve this question for you. So here you can see 1.mp3, 1.mp4, 2.mp3, all the way till 5.mp3. So what I will do first is I will put an h1. My videos for the day. Okay, I will write h1 here. And here I will write some audios for the day. Okay, I do videos and audios for the day. What I will do here is I will toggle the screencast mode. Because it looks a little easy to you. And here some videos. So I wrote an h1 and here I put an h2. And here I will simply put videos in a div. So as soon as I write the video tag here, And after that I will write the controls here. So I will actually be able to watch this 1.mp4. What I will do simply is I will press the shift, alt and down arrow. And here I will write 2, then I will write 3 here. Then I will write 4 here. And then I will write 5 here. And I will do the same thing for audio as well. And here I will write audio. And here I will write 1.mp3. And after that I will write controls. Okay, and after that I will do the same thing. And I will replicate it 5 times. I did 2, 3, 4. And here I will do 5. And obviously I will try to show you by previewing it here. Now there is a problem here. The problem is that it is taking the full width. And it is becoming very problematic for me. Maybe because I am zoomed in. Okay, so it is not becoming problematic actually. Otherwise we would have reset it from CSS. But for now I think we are good. We will see how to resize it in CSS. How things can be improved. But I think our videos have come here. And some audios for the day have also come. So you can see the audios. If you have put songs, then songs will come. I have not put songs. Here you can see that my videos are playing. And these are the videos. And this is my personal favorite. So you must have put your favorite videos. But that was pretty much about it. And many people are saying that this is very easy. This exercise was so simple. We will raise the bar like anything. Remember my words. Now we will give shoutouts. Shoutout to Soumya172. Shoutout to Code with Rohit who accepted the challenge. Here multiatmos, desiready, shantop, Harsh Gularia. Then Hellstar Kun, Team Rewa, Kulsoom Saqibward. Then shoutout to Bobby01th. Shoutout to Mohan2492. Shoutout to Prakash. Shoutout to Arnab. Then shoutout to Jilan. Shoutout to HR. Shoutout to Nikhil L. And here I will give shoutout to those who have solved. I will give shoutout to those who have solved. Has anyone solved? I will see the replies. Has anyone solved? No one has solved yet. Has anyone solved? No one has solved yet. Ok so Coder Anderson. Congratulations to you. You have won 7 crore rupees. You have used the table for the first time. Which is fine. The thing is that tables are not ideally used. To be honest. But I think we are good. From 1 to 6, he has shown the videos. He has also given width and height in the video. Which is a great thing. I will also do it in my video. In fact, I will write width is equal to 239. Let's see how it changes. It is looking better. Why didn't I think of this idea? When I was solving. Shoutout to Cody Anderson. Shoutout to you. Shoutout to Cody Anderson. Now who has solved the next one? Saif0981. Shoutout to him too. You have solved it beautifully. Very good. Very good. Shoutout to Cesar Murti. Shoutout to him too. Shoutout to Jheel Maheshwari. I want to say that many of you didn't solve it. This was not the participation I was looking for. I wanted more participation. I wanted everyone to solve it. Very few people have solved it. I want more people to solve it. Sakshim Jain has solved it. I saw that very few people have solved it. I don't see any other code here. In the coming videos, I want everyone to solve the challenges. Whoever solves it first, I will give him a shoutout in the comments. You have to respond a little fast. Shoutout to all those who are writing the challenge accepted. I hope you are enjoying watching this course. Access all the source code and playlists. The playlist is very popular. A few days ago, there were two videos. One video was about gpc. But now I have filled the videos. Your enthusiasm should also be constant. If you haven't accessed the source code, then you have to do it. That's all for now. Thank you so much for watching this video. I will see you next time. Thank you for watching it. Like and subscribe to this channel. Share this video with your friends. Thank you."
+}

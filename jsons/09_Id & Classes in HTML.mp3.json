@@ -5,2471 +5,2824 @@
       "title": "Id & Classes in HTML",
       "start": 0.0,
       "end": 3.08,
-      "text": " In this video, I will tell you what are ID and Classes?"
+      "text": " In this video, I will tell you what are ID and Classes?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=0"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 3.08,
       "end": 7.4,
-      "text": " The concept of ID and Classes is one of the most confused concepts."
+      "text": " The concept of ID and Classes is one of the most confused concepts.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=3"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 7.4,
       "end": 12.32,
-      "text": " In fact, when I was learning HTML, I was very confused in my early days."
+      "text": " In fact, when I was learning HTML, I was very confused in my early days.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=7"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 12.32,
       "end": 14.120000000000001,
-      "text": " ID means Unique Identifier."
+      "text": " ID means Unique Identifier.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=12"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 14.120000000000001,
       "end": 18.8,
-      "text": " That is, if you give an ID to an element, you will not give that ID to the other element."
+      "text": " That is, if you give an ID to an element, you will not give that ID to the other element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=14"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 18.8,
       "end": 24.0,
-      "text": " But Class means that if you want to give a property to multiple elements,"
+      "text": " But Class means that if you want to give a property to multiple elements,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=18"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 24.0,
       "end": 25.560000000000002,
-      "text": " then you will give it multiple classes."
+      "text": " then you will give it multiple classes.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=24"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 25.560000000000002,
       "end": 29.8,
-      "text": " For example, you can give a class named Red to a div and a form."
+      "text": " For example, you can give a class named Red to a div and a form.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=25"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 29.8,
       "end": 35.28,
-      "text": " Similarly, you can give a class named BGRed to an article tag and a header tag."
+      "text": " Similarly, you can give a class named BGRed to an article tag and a header tag.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=29"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 35.28,
       "end": 39.08,
-      "text": " Do like this video because we will now go to the computer screen"
+      "text": " Do like this video because we will now go to the computer screen",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=35"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 39.08,
       "end": 41.760000000000005,
-      "text": " and we will see these things very closely."
+      "text": " and we will see these things very closely.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=39"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 41.760000000000005,
       "end": 43.120000000000005,
-      "text": " Let's roll the intro."
+      "text": " Let's roll the intro.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=41"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 52.68,
       "end": 54.44,
-      "text": " Alright guys, so I am back."
+      "text": " Alright guys, so I am back.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=52"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 54.44,
       "end": 57.760000000000005,
-      "text": " And if you have not accessed the Sigma Web Development course,"
+      "text": " And if you have not accessed the Sigma Web Development course,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=54"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 57.76,
       "end": 61.199999999999996,
-      "text": " then access the playlist or click on the bookmark or click on save."
+      "text": " then access the playlist or click on the bookmark or click on save.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=57"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 61.199999999999996,
       "end": 63.879999999999995,
-      "text": " And the source code is also being uploaded on GitHub."
+      "text": " And the source code is also being uploaded on GitHub.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=61"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 63.879999999999995,
       "end": 68.4,
-      "text": " Now I will come here in the folder and quickly make a folder of video number 9."
+      "text": " Now I will come here in the folder and quickly make a folder of video number 9.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=63"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 68.4,
       "end": 70.56,
-      "text": " So I will make a folder of video 9 here."
+      "text": " So I will make a folder of video 9 here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=68"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 70.56,
       "end": 72.72,
-      "text": " I will write here video 9."
+      "text": " I will write here video 9.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=70"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 72.72,
       "end": 77.2,
-      "text": " And after making a folder of video 9, I will right click and open with code."
+      "text": " And after making a folder of video 9, I will right click and open with code.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=72"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 77.2,
       "end": 79.84,
-      "text": " And here you can see that it has opened in BS code."
+      "text": " And here you can see that it has opened in BS code.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=77"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 79.84,
       "end": 84.16,
-      "text": " Now I will write index.html here, I will enter with an exclamation mark."
+      "text": " Now I will write index.html here, I will enter with an exclamation mark.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=79"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 84.16,
       "end": 89.08,
-      "text": " And along with that, I will tell you what are ID and classes."
+      "text": " And along with that, I will tell you what are ID and classes.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=84"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 89.08,
       "end": 91.11999999999999,
-      "text": " You must have an Aadhar card, right?"
+      "text": " You must have an Aadhar card, right?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=89"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 91.11999999999999,
       "end": 93.0,
-      "text": " If not, then you must have some ID."
+      "text": " If not, then you must have some ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=91"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 93.0,
       "end": 95.03999999999999,
-      "text": " Now don't write in the comment that I don't have an ID."
+      "text": " Now don't write in the comment that I don't have an ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=93"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 95.03999999999999,
       "end": 98.2,
-      "text": " Whenever you go somewhere, you have to show your ID"
+      "text": " Whenever you go somewhere, you have to show your ID",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=95"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 98.2,
       "end": 101.67999999999999,
-      "text": " in some of the cases to prove your identity."
+      "text": " in some of the cases to prove your identity.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=98"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 101.67999999999999,
       "end": 103.0,
-      "text": " That I am this."
+      "text": " That I am this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=101"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 103.0,
       "end": 106.67999999999999,
-      "text": " Now if you want to understand about ID and classes in HTML,"
+      "text": " Now if you want to understand about ID and classes in HTML,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=103"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 106.67999999999999,
       "end": 109.56,
-      "text": " then ID is what your identity is."
+      "text": " then ID is what your identity is.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=106"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 109.56,
       "end": 110.24,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=109"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 110.24,
       "end": 111.84,
-      "text": " What is it? It is your identity."
+      "text": " What is it? It is your identity.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=110"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 111.84,
       "end": 113.28,
-      "text": " So listen to a story here."
+      "text": " So listen to a story here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=111"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 113.92,
       "end": 114.96000000000001,
-      "text": " This is John."
+      "text": " This is John.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=113"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 114.96000000000001,
       "end": 115.48,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=114"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 115.48,
       "end": 116.48,
-      "text": " And this is Harry."
+      "text": " And this is Harry.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=115"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 116.48,
       "end": 117.08,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=116"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 117.08,
       "end": 118.68,
-      "text": " These two are very good friends."
+      "text": " These two are very good friends.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=117"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 118.68,
       "end": 119.68,
-      "text": " They are very good friends."
+      "text": " They are very good friends.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=118"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 119.68,
       "end": 122.6,
-      "text": " They just don't share their lunch."
+      "text": " They just don't share their lunch.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=119"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 122.6,
       "end": 124.36,
-      "text": " And the rest are very good friends."
+      "text": " And the rest are very good friends.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=122"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 124.36,
       "end": 125.12,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=124"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 125.12,
       "end": 126.6,
-      "text": " In the matter of food, he is not the only one."
+      "text": " In the matter of food, he is not the only one.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=125"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 126.6,
       "end": 128.96,
-      "text": " And he is a friend in all other matters."
+      "text": " And he is a friend in all other matters.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=126"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 128.96,
       "end": 129.52,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=128"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 129.52,
       "end": 132.2,
-      "text": " And here you can see that this is John and Harry."
+      "text": " And here you can see that this is John and Harry.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=129"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 132.2,
       "end": 134.48,
-      "text": " Both of them have their own Aadhar ID."
+      "text": " Both of them have their own Aadhar ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=132"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 134.48,
       "end": 136.72,
-      "text": " So this is my Aadhar number."
+      "text": " So this is my Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=134"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 136.72,
       "end": 140.36,
-      "text": " And John's Aadhar number looks something like this."
+      "text": " And John's Aadhar number looks something like this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=136"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 140.36,
       "end": 141.08,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=140"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 141.08,
       "end": 142.84,
-      "text": " So this is John's Aadhar number."
+      "text": " So this is John's Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=141"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 142.84,
       "end": 144.16000000000003,
-      "text": " And this is my Aadhar number."
+      "text": " And this is my Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=142"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 144.16000000000003,
       "end": 144.68,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=144"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 144.68,
       "end": 147.16000000000003,
-      "text": " Our Aadhar numbers can never be the same."
+      "text": " Our Aadhar numbers can never be the same.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=144"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 147.16000000000003,
       "end": 150.96,
-      "text": " Or if we assume that our friend is made."
+      "text": " Or if we assume that our friend is made.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=147"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 150.96,
       "end": 152.8,
-      "text": " Assume my friend is made."
+      "text": " Assume my friend is made.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=150"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 152.8,
       "end": 154.72000000000003,
-      "text": " Tanya and John's friend is made."
+      "text": " Tanya and John's friend is made.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=152"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 154.72000000000003,
       "end": 155.68,
-      "text": " Assume Shruti."
+      "text": " Assume Shruti.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=154"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 155.68,
       "end": 156.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=155"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 156.4,
       "end": 158.4,
-      "text": " So their Aadhar numbers will also be different."
+      "text": " So their Aadhar numbers will also be different.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=156"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 158.4,
       "end": 158.72000000000003,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=158"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 158.72000000000003,
       "end": 159.20000000000002,
-      "text": " This is done."
+      "text": " This is done.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=158"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 159.20000000000002,
       "end": 160.88000000000002,
-      "text": " And this is Tanya's Aadhar number."
+      "text": " And this is Tanya's Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=159"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 160.88000000000002,
       "end": 161.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=160"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 161.4,
       "end": 163.12,
-      "text": " This is Tanya's Aadhar number."
+      "text": " This is Tanya's Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=161"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 163.12,
       "end": 164.04000000000002,
-      "text": " Now,"
+      "text": " Now,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=163"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 164.04000000000002,
       "end": 166.4,
-      "text": " this Aadhar number will be different for every person."
+      "text": " this Aadhar number will be different for every person.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=164"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 166.4,
       "end": 167.8,
-      "text": " So John and Harry were friends."
+      "text": " So John and Harry were friends.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=166"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 167.8,
       "end": 169.52,
-      "text": " John's friend became Shruti."
+      "text": " John's friend became Shruti.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=167"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 169.52,
       "end": 171.36,
-      "text": " This is Tanya's Aadhar number."
+      "text": " This is Tanya's Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=169"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 171.36,
       "end": 173.36,
-      "text": " None of these four numbers are the same."
+      "text": " None of these four numbers are the same.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=171"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 173.36,
       "end": 174.96,
-      "text": " These four Aadhar numbers."
+      "text": " These four Aadhar numbers.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=173"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 174.96,
       "end": 176.84,
-      "text": " If I told you any of these Aadhar numbers."
+      "text": " If I told you any of these Aadhar numbers.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=174"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 176.84,
       "end": 178.52,
-      "text": " I said 35, 34, 5."
+      "text": " I said 35, 34, 5.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=176"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 178.52,
       "end": 180.68,
-      "text": " You will understand that we are talking about Harry."
+      "text": " You will understand that we are talking about Harry.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=178"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 180.68,
       "end": 184.28,
-      "text": " And if I said 54, 56, 56, 7."
+      "text": " And if I said 54, 56, 56, 7.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=180"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 184.28,
       "end": 186.28,
-      "text": " You will understand that we are talking about Shruti."
+      "text": " You will understand that we are talking about Shruti.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=184"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 186.28,
       "end": 191.72,
-      "text": " And if I said 34, 56, 85, 68, 63."
+      "text": " And if I said 34, 56, 85, 68, 63.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=186"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 191.72,
       "end": 193.84,
-      "text": " So you will understand that we are talking about Tanya."
+      "text": " So you will understand that we are talking about Tanya.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=191"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 193.84,
       "end": 196.8,
-      "text": " So this Aadhar number uniquely identifies"
+      "text": " So this Aadhar number uniquely identifies",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=193"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 196.84,
       "end": 200.36,
-      "text": " Tanya, Harry, Shruti and John."
+      "text": " Tanya, Harry, Shruti and John.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=196"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 200.36,
       "end": 201.52,
-      "text": " So what is this?"
+      "text": " So what is this?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=200"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 201.52,
       "end": 203.52,
-      "text": " This is their Aadhar number."
+      "text": " This is their Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=201"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 203.52,
       "end": 204.76000000000002,
-      "text": " That is, this is their ID."
+      "text": " That is, this is their ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=203"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 204.76000000000002,
       "end": 206.76000000000002,
-      "text": " No one else will get this Aadhar number."
+      "text": " No one else will get this Aadhar number.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=204"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 206.76000000000002,
       "end": 207.24,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=206"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 207.24,
       "end": 208.36,
-      "text": " Along with that,"
+      "text": " Along with that,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=207"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 208.36,
       "end": 210.92000000000002,
-      "text": " suppose John and Harry spent their childhood together."
+      "text": " suppose John and Harry spent their childhood together.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=208"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 210.92000000000002,
       "end": 211.92000000000002,
-      "text": " They both have big panties."
+      "text": " They both have big panties.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=210"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 211.92000000000002,
       "end": 213.32000000000002,
-      "text": " And they studied in the same class."
+      "text": " And they studied in the same class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=211"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 213.32000000000002,
       "end": 215.32000000000002,
-      "text": " And the name of that class was"
+      "text": " And the name of that class was",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=213"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 215.32000000000002,
       "end": 216.92000000000002,
-      "text": " Class 10th."
+      "text": " Class 10th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=215"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 216.92000000000002,
       "end": 217.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=216"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 217.4,
       "end": 218.8,
-      "text": " Suppose they are in the 10th class."
+      "text": " Suppose they are in the 10th class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=217"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 218.8,
       "end": 219.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=218"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 219.4,
       "end": 220.4,
-      "text": " Suppose."
+      "text": " Suppose.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=219"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 220.4,
       "end": 221.84,
-      "text": " What is said in believing?"
+      "text": " What is said in believing?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=220"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 221.84,
       "end": 224.60000000000002,
-      "text": " And Shruti is in class 9th."
+      "text": " And Shruti is in class 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=221"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 225.4,
       "end": 226.72,
-      "text": " And Tanya is also in class 9th."
+      "text": " And Tanya is also in class 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=225"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 226.72,
       "end": 227.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=226"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 227.4,
       "end": 229.0,
-      "text": " So both are in class 9th."
+      "text": " So both are in class 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=227"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 229.0,
       "end": 229.6,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=229"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 229.6,
       "end": 231.16,
-      "text": " Tanya is also in class 9th."
+      "text": " Tanya is also in class 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=229"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 231.16,
       "end": 232.6,
-      "text": " And Shruti is also in class 9th."
+      "text": " And Shruti is also in class 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=231"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 232.6,
       "end": 234.16,
-      "text": " So what is Shruti's class?"
+      "text": " So what is Shruti's class?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=232"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 234.16,
       "end": 234.92,
-      "text": " It is 9th."
+      "text": " It is 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=234"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 234.92,
       "end": 236.28,
-      "text": " Tanya's class can also be 9th."
+      "text": " Tanya's class can also be 9th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=234"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 236.28,
       "end": 238.28,
-      "text": " Brother, Shruti will not study alone in this class."
+      "text": " Brother, Shruti will not study alone in this class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=236"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 238.28,
       "end": 240.28,
-      "text": " Or Harry will not study alone in 10th class."
+      "text": " Or Harry will not study alone in 10th class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=238"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 240.28,
       "end": 241.79999999999998,
-      "text": " There are other children in the class."
+      "text": " There are other children in the class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=240"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 241.79999999999998,
       "end": 243.79999999999998,
-      "text": " So the meaning of class is that"
+      "text": " So the meaning of class is that",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=241"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 243.79999999999998,
       "end": 247.0,
-      "text": " that in one class there is Harry and John."
+      "text": " that in one class there is Harry and John.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=243"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 247.0,
       "end": 249.48,
-      "text": " So can a class be multiple of one person?"
+      "text": " So can a class be multiple of one person?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=247"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 249.48,
       "end": 251.6,
-      "text": " A class can be multiple of one person."
+      "text": " A class can be multiple of one person.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=249"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 251.6,
       "end": 254.0,
-      "text": " Suppose Harry is in class 10th."
+      "text": " Suppose Harry is in class 10th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=251"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 254.0,
       "end": 257.8,
-      "text": " And he goes to a tuition where he is in class 10A."
+      "text": " And he goes to a tuition where he is in class 10A.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=254"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 257.8,
       "end": 259.4,
-      "text": " Suppose there are classes in that tuition."
+      "text": " Suppose there are classes in that tuition.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=257"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 259.4,
       "end": 261.4,
-      "text": " So there can be more than one class."
+      "text": " So there can be more than one class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=259"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 261.4,
       "end": 262.4,
-      "text": " One is class 10th."
+      "text": " One is class 10th.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=261"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 262.4,
       "end": 264.2,
-      "text": " And one is class 10A."
+      "text": " And one is class 10A.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=262"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 264.2,
       "end": 265.6,
-      "text": " And along with that,"
+      "text": " And along with that,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=264"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 265.6,
       "end": 267.6,
-      "text": " Suppose Harry wears a red T-shirt."
+      "text": " Suppose Harry wears a red T-shirt.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=265"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 267.6,
       "end": 268.8,
-      "text": " So his class is also red."
+      "text": " So his class is also red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=267"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 268.8,
       "end": 269.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=268"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 269.4,
       "end": 270.4,
-      "text": " So the meaning of class is that"
+      "text": " So the meaning of class is that",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=269"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 270.4,
       "end": 271.6,
-      "text": " the class is not being studied."
+      "text": " the class is not being studied.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=270"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 271.6,
       "end": 272.4,
-      "text": " The meaning of class is that"
+      "text": " The meaning of class is that",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=271"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 272.4,
       "end": 274.0,
-      "text": " it has been classified in this class."
+      "text": " it has been classified in this class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=272"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 274.0,
       "end": 274.8,
-      "text": " Consider it like this."
+      "text": " Consider it like this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=274"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 274.8,
       "end": 275.8,
-      "text": " Now come here."
+      "text": " Now come here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=274"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 275.8,
       "end": 277.6,
-      "text": " Leave John, Harry, Shruti now."
+      "text": " Leave John, Harry, Shruti now.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=275"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 277.6,
       "end": 278.2,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=277"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 278.2,
       "end": 279.2,
-      "text": " Delete it."
+      "text": " Delete it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=278"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 279.2,
       "end": 281.0,
-      "text": " I will zoom out and delete it."
+      "text": " I will zoom out and delete it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=279"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 281.0,
       "end": 281.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=281"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 281.4,
       "end": 282.8,
-      "text": " It doesn't mean anything here."
+      "text": " It doesn't mean anything here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=281"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 283.0,
       "end": 285.2,
-      "text": " Now come to index.html and understand this."
+      "text": " Now come to index.html and understand this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=283"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 285.2,
       "end": 286.6,
-      "text": " Suppose I made a div here."
+      "text": " Suppose I made a div here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=285"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 286.6,
       "end": 287.0,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=286"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 287.6,
       "end": 289.2,
-      "text": " And I gave its class as red."
+      "text": " And I gave its class as red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=287"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 289.2,
       "end": 289.8,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=289"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 289.8,
       "end": 291.2,
-      "text": " And I made a span."
+      "text": " And I made a span.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=289"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 291.2,
       "end": 293.2,
-      "text": " And I gave its class as red."
+      "text": " And I gave its class as red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=291"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 293.2,
       "end": 293.6,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=293"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 293.6,
       "end": 294.8,
-      "text": " The classes that I have given,"
+      "text": " The classes that I have given,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=293"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 294.8,
       "end": 296.2,
-      "text": " I can give them to different elements."
+      "text": " I can give them to different elements.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=294"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 296.2,
       "end": 296.8,
-      "text": " Or the same class."
+      "text": " Or the same class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=296"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 296.8,
       "end": 297.40000000000003,
-      "text": " Yes, I can."
+      "text": " Yes, I can.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=296"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 297.40000000000003,
       "end": 299.2,
-      "text": " But if I want to put an ID"
+      "text": " But if I want to put an ID",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=297"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 299.2,
       "end": 300.2,
-      "text": " in any element."
+      "text": " in any element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=299"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 300.2,
       "end": 302.2,
-      "text": " Suppose I put its ID as first div."
+      "text": " Suppose I put its ID as first div.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=300"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 302.2,
       "end": 303.6,
-      "text": " I can put anything in the ID."
+      "text": " I can put anything in the ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=302"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 303.6,
       "end": 305.8,
-      "text": " So I can't give this ID to any other element."
+      "text": " So I can't give this ID to any other element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=303"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 305.8,
       "end": 306.8,
-      "text": " Because this is its Aadhaar card."
+      "text": " Because this is its Aadhaar card.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=305"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 306.8,
       "end": 307.6,
-      "text": " This is its Aadhaar card."
+      "text": " This is its Aadhaar card.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=306"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 307.6,
       "end": 308.8,
-      "text": " If there is another div,"
+      "text": " If there is another div,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=307"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 308.8,
       "end": 309.8,
-      "text": " I can't put it."
+      "text": " I can't put it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=308"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 310.40000000000003,
       "end": 312.8,
-      "text": " Then I will have to put something else in the ID."
+      "text": " Then I will have to put something else in the ID.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=310"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 312.8,
       "end": 313.40000000000003,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=312"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 313.40000000000003,
       "end": 314.8,
-      "text": " I put the ID in the second div."
+      "text": " I put the ID in the second div.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=313"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 314.8,
       "end": 315.2,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=314"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 315.2,
       "end": 317.0,
-      "text": " And here I write second."
+      "text": " And here I write second.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=315"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 317.0,
       "end": 318.0,
-      "text": " And here I will write first."
+      "text": " And here I will write first.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=317"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 318.0,
       "end": 318.6,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=318"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 318.6,
       "end": 321.40000000000003,
-      "text": " So this concept of ID and classes,"
+      "text": " So this concept of ID and classes,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=318"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 321.40000000000003,
       "end": 322.40000000000003,
-      "text": " I will tell you personally,"
+      "text": " I will tell you personally,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=321"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 322.40000000000003,
       "end": 323.6,
-      "text": " I understood it very late."
+      "text": " I understood it very late.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=322"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 323.6,
       "end": 324.8,
-      "text": " When I was learning WebDeveloper Pants"
+      "text": " When I was learning WebDeveloper Pants",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=323"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 324.8,
       "end": 325.6,
-      "text": " in my early days."
+      "text": " in my early days.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=324"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 325.6,
       "end": 327.0,
-      "text": " No one told me that"
+      "text": " No one told me that",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=325"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 327.0,
       "end": 329.6,
-      "text": " ID uniquely identifies an element."
+      "text": " ID uniquely identifies an element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=327"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 329.6,
       "end": 330.8,
-      "text": " And the class"
+      "text": " And the class",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=329"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 330.8,
       "end": 334.2,
-      "text": " can put multiple classes in one element."
+      "text": " can put multiple classes in one element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=330"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 334.2,
       "end": 337.0,
-      "text": " And can put the same class in multiple elements."
+      "text": " And can put the same class in multiple elements.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=334"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 337.0,
       "end": 337.6,
-      "text": " Do you understand?"
+      "text": " Do you understand?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=337"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 337.6,
       "end": 339.40000000000003,
-      "text": " Like if I gave it a red class,"
+      "text": " Like if I gave it a red class,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=337"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 339.59999999999997,
       "end": 341.79999999999995,
-      "text": " I can also give it a BG yellow class."
+      "text": " I can also give it a BG yellow class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=339"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 341.79999999999995,
       "end": 342.2,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=341"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 342.2,
       "end": 343.0,
-      "text": " BG yellow."
+      "text": " BG yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=342"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 343.59999999999997,
       "end": 344.59999999999997,
-      "text": " I can give only one class."
+      "text": " I can give only one class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=343"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 344.59999999999997,
       "end": 346.79999999999995,
-      "text": " And if we give a class to any element multiple,"
+      "text": " And if we give a class to any element multiple,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=344"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 346.79999999999995,
       "end": 348.2,
-      "text": " then we put a space."
+      "text": " then we put a space.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=346"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 348.2,
       "end": 349.2,
-      "text": " Like if I want"
+      "text": " Like if I want",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=348"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 349.2,
       "end": 352.59999999999997,
-      "text": " multiple classes to be put in this element,"
+      "text": " multiple classes to be put in this element,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=349"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 352.59999999999997,
       "end": 353.79999999999995,
-      "text": " then what will I do?"
+      "text": " then what will I do?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=352"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 353.79999999999995,
       "end": 355.4,
-      "text": " First I will write red here."
+      "text": " First I will write red here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=353"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 355.4,
       "end": 357.4,
-      "text": " Then I will put a space and write BG yellow."
+      "text": " Then I will put a space and write BG yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=355"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 357.4,
       "end": 359.4,
-      "text": " So in this way I can give multiple classes."
+      "text": " So in this way I can give multiple classes.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=357"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 359.4,
       "end": 360.4,
-      "text": " To the same element."
+      "text": " To the same element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=359"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 360.4,
       "end": 362.79999999999995,
-      "text": " Can I give multiple IDs to the same element?"
+      "text": " Can I give multiple IDs to the same element?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=360"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 362.79999999999995,
       "end": 364.59999999999997,
-      "text": " Have you ever heard of someone's two Aadhaar cards?"
+      "text": " Have you ever heard of someone's two Aadhaar cards?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=362"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 364.59999999999997,
       "end": 366.0,
-      "text": " Brother, someone made it from here and there."
+      "text": " Brother, someone made it from here and there.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=364"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 366.0,
       "end": 366.59999999999997,
-      "text": " I don't know brother."
+      "text": " I don't know brother.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=366"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 366.59999999999997,
       "end": 369.0,
-      "text": " But there are no Aadhaar cards of Adality."
+      "text": " But there are no Aadhaar cards of Adality.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=366"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 369.0,
       "end": 371.8,
-      "text": " Aadhaar number is one for one person."
+      "text": " Aadhaar number is one for one person.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=369"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 371.8,
       "end": 376.0,
-      "text": " And Aadhaar numbers cannot be the same for different people."
+      "text": " And Aadhaar numbers cannot be the same for different people.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=371"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 376.0,
       "end": 376.6,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=376"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 376.6,
       "end": 378.6,
-      "text": " One person cannot have multiple."
+      "text": " One person cannot have multiple.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=376"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 378.6,
       "end": 380.8,
-      "text": " Different people cannot have the same."
+      "text": " Different people cannot have the same.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=378"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 380.8,
       "end": 382.0,
-      "text": " But the class,"
+      "text": " But the class,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=380"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 382.0,
       "end": 384.4,
-      "text": " that is, if I say which color t-shirt you wear,"
+      "text": " that is, if I say which color t-shirt you wear,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=382"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 384.4,
       "end": 386.4,
-      "text": " or five people can wear a red t-shirt."
+      "text": " or five people can wear a red t-shirt.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=384"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 386.4,
       "end": 387.2,
-      "text": " No problem."
+      "text": " No problem.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=386"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 387.2,
       "end": 388.8,
-      "text": " You will get it if you go on the road."
+      "text": " You will get it if you go on the road.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=387"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 388.8,
       "end": 392.4,
-      "text": " And let's say you like mangoes,"
+      "text": " And let's say you like mangoes,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=388"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 392.4,
       "end": 394.0,
-      "text": " or like bananas,"
+      "text": " or like bananas,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=392"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 394.0,
       "end": 395.4,
-      "text": " or like grapes,"
+      "text": " or like grapes,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=394"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 395.4,
       "end": 396.4,
-      "text": " you will get multiple people."
+      "text": " you will get multiple people.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=395"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 396.4,
       "end": 397.6,
-      "text": " So assume that in the banana class."
+      "text": " So assume that in the banana class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=396"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 397.6,
       "end": 399.40000000000003,
-      "text": " Or in the grapes class."
+      "text": " Or in the grapes class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=397"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 399.40000000000003,
       "end": 399.8,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=399"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 399.8,
       "end": 400.8,
-      "text": " In the mango class."
+      "text": " In the mango class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=399"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 400.8,
       "end": 403.0,
-      "text": " So we can classify in one class."
+      "text": " So we can classify in one class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=400"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 403.0,
       "end": 405.40000000000003,
-      "text": " And we can give different elements to the same class."
+      "text": " And we can give different elements to the same class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=403"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 405.40000000000003,
       "end": 406.8,
-      "text": " So I hope you understood this thing."
+      "text": " So I hope you understood this thing.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=405"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 406.8,
       "end": 408.20000000000005,
-      "text": " Now I will write a little CSS here."
+      "text": " Now I will write a little CSS here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=406"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 408.20000000000005,
       "end": 410.8,
-      "text": " And don't say that you are not reading CSS and writing."
+      "text": " And don't say that you are not reading CSS and writing.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=408"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 410.8,
       "end": 412.0,
-      "text": " What am I writing in CSS now?"
+      "text": " What am I writing in CSS now?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=410"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 412.0,
       "end": 413.0,
-      "text": " You guys, I mean,"
+      "text": " You guys, I mean,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=412"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 413.0,
       "end": 415.40000000000003,
-      "text": " just assume that I am writing some alien language."
+      "text": " just assume that I am writing some alien language.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=413"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 415.40000000000003,
       "end": 415.8,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=415"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 416.6,
       "end": 418.0,
-      "text": " In style.css."
+      "text": " In style.css.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=416"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 418.0,
       "end": 420.0,
-      "text": " But I am trying to make a point."
+      "text": " But I am trying to make a point.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=418"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 420.0,
       "end": 421.40000000000003,
-      "text": " I will click here."
+      "text": " I will click here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=420"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 421.40000000000003,
       "end": 422.8,
-      "text": " And here is the preview of it."
+      "text": " And here is the preview of it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=421"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 422.8,
       "end": 423.8,
-      "text": " It looks something like this."
+      "text": " It looks something like this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=422"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 423.8,
       "end": 424.8,
-      "text": " First and second."
+      "text": " First and second.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=423"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 424.8,
       "end": 426.0,
-      "text": " I will show you just one thing."
+      "text": " I will show you just one thing.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=424"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 426.0,
       "end": 427.0,
-      "text": " I am..."
+      "text": " I am...",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=426"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 427.0,
       "end": 427.6,
-      "text": " There is a class."
+      "text": " There is a class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=427"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 427.6,
       "end": 429.6,
-      "text": " How do we target it in CSS?"
+      "text": " How do we target it in CSS?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=427"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 429.6,
       "end": 430.6,
-      "text": " We do it by dot."
+      "text": " We do it by dot.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=429"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 430.6,
       "end": 431.8,
-      "text": " Dot red means red class."
+      "text": " Dot red means red class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=430"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 431.8,
       "end": 433.6,
-      "text": " And hash first div means..."
+      "text": " And hash first div means...",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=431"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 433.6,
       "end": 434.6,
-      "text": " Hash means id."
+      "text": " Hash means id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=433"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 434.6,
       "end": 435.6,
-      "text": " Dot means class."
+      "text": " Dot means class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=434"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 436.4,
       "end": 437.2,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=436"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 437.2,
       "end": 440.0,
-      "text": " If I say that the first div,"
+      "text": " If I say that the first div,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=437"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 440.0,
       "end": 442.0,
-      "text": " make its background color red."
+      "text": " make its background color red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=440"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 442.0,
       "end": 442.4,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=442"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 442.4,
       "end": 444.0,
-      "text": " So by making the background color red of the first div,"
+      "text": " So by making the background color red of the first div,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=442"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 444.0,
       "end": 445.2,
-      "text": " its background color will be red."
+      "text": " its background color will be red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=444"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 445.2,
       "end": 445.8,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=445"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 445.8,
       "end": 447.6,
-      "text": " These are the selectors in CSS."
+      "text": " These are the selectors in CSS.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=445"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 447.6,
       "end": 450.2,
-      "text": " And now I don't want to confuse you at all."
+      "text": " And now I don't want to confuse you at all.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=447"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 450.2,
       "end": 452.4,
-      "text": " And I can comment like this in CSS."
+      "text": " And I can comment like this in CSS.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=450"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 452.4,
       "end": 453.0,
-      "text": " Okay?"
+      "text": " Okay?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=452"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 453.0,
       "end": 454.6,
-      "text": " But we will read all these things later."
+      "text": " But we will read all these things later.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=453"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 454.6,
       "end": 456.20000000000005,
-      "text": " Now what I will do by dotting red?"
+      "text": " Now what I will do by dotting red?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=454"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 456.20000000000005,
       "end": 458.20000000000005,
-      "text": " I will write background color red here."
+      "text": " I will write background color red here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=456"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 458.20000000000005,
       "end": 459.20000000000005,
-      "text": " And along with that,"
+      "text": " And along with that,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=458"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 459.20000000000005,
       "end": 461.20000000000005,
-      "text": " what will I do in dot bg yellow?"
+      "text": " what will I do in dot bg yellow?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=459"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 461.6,
       "end": 463.20000000000005,
-      "text": " Dot bg yellow will be mine."
+      "text": " Dot bg yellow will be mine.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=461"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 463.20000000000005,
       "end": 464.40000000000003,
-      "text": " I have to put a dot."
+      "text": " I have to put a dot.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=463"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 464.40000000000003,
       "end": 465.40000000000003,
-      "text": " Dot means class."
+      "text": " Dot means class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=464"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 465.40000000000003,
       "end": 466.6,
-      "text": " It means class bg yellow."
+      "text": " It means class bg yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=465"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 467.20000000000005,
       "end": 469.6,
-      "text": " And I will make the background color yellow."
+      "text": " And I will make the background color yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=467"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 469.6,
       "end": 470.8,
-      "text": " Sorry, I will make it color red."
+      "text": " Sorry, I will make it color red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=469"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 470.8,
       "end": 472.20000000000005,
-      "text": " I will not make the background color red."
+      "text": " I will not make the background color red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=470"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 472.20000000000005,
       "end": 474.0,
-      "text": " Dot red means its color should be red."
+      "text": " Dot red means its color should be red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=472"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 474.0,
       "end": 475.20000000000005,
-      "text": " See, its color is red."
+      "text": " See, its color is red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=474"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 475.20000000000005,
       "end": 476.8,
-      "text": " And the background color is yellow."
+      "text": " And the background color is yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=475"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 476.8,
       "end": 481.0,
-      "text": " So this way you can use id and classes in CSS."
+      "text": " So this way you can use id and classes in CSS.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=476"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 481.0,
       "end": 483.0,
-      "text": " I hope you understood this."
+      "text": " I hope you understood this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=481"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 483.0,
       "end": 485.0,
-      "text": " Now one thing to note here is very important."
+      "text": " Now one thing to note here is very important.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=483"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 485.0,
       "end": 488.4,
-      "text": " That id and classes are attributes of an element."
+      "text": " That id and classes are attributes of an element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=485"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 488.4,
       "end": 489.6,
-      "text": " This is id attribute."
+      "text": " This is id attribute.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=488"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 489.6,
       "end": 490.8,
-      "text": " And this is class attribute."
+      "text": " And this is class attribute.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=489"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 490.8,
       "end": 492.2,
-      "text": " So if I ask what are id classes?"
+      "text": " So if I ask what are id classes?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=490"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 492.2,
       "end": 493.2,
-      "text": " Are they elements or not?"
+      "text": " Are they elements or not?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=492"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 493.2,
       "end": 494.8,
-      "text": " They are attributes of elements."
+      "text": " They are attributes of elements.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=493"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 494.8,
       "end": 497.0,
-      "text": " Now there is another use of id."
+      "text": " Now there is another use of id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=494"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 497.0,
       "end": 499.0,
-      "text": " I will tell you what is another use of id."
+      "text": " I will tell you what is another use of id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=497"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 499.0,
       "end": 502.4,
-      "text": " If I take you to Wikipedia and I write coding."
+      "text": " If I take you to Wikipedia and I write coding.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=499"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 502.4,
       "end": 504.2,
-      "text": " So this page of Wikipedia has come."
+      "text": " So this page of Wikipedia has come.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=502"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 504.2,
       "end": 505.4,
-      "text": " Let's say I go to some other page,"
+      "text": " Let's say I go to some other page,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=504"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 505.4,
       "end": 506.4,
-      "text": " to some big page."
+      "text": " to some big page.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=505"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 506.4,
       "end": 509.6,
-      "text": " So you see that when you go to any page on Wikipedia,"
+      "text": " So you see that when you go to any page on Wikipedia,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=506"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 509.6,
       "end": 510.8,
-      "text": " then what can you do?"
+      "text": " then what can you do?",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=509"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 510.8,
       "end": 513.2,
-      "text": " You can take the link of that particular place."
+      "text": " You can take the link of that particular place.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=510"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 513.2,
       "end": 515.2,
-      "text": " I will show you how this happens."
+      "text": " I will show you how this happens.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=513"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 515.2,
       "end": 516.4,
-      "text": " I go to some other page."
+      "text": " I go to some other page.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=515"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 516.4,
       "end": 517.8,
-      "text": " I scroll down."
+      "text": " I scroll down.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=516"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 517.8,
       "end": 520.2,
-      "text": " And here I will inspect."
+      "text": " And here I will inspect.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=517"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 520.2,
       "end": 521.2,
-      "text": " I will see its id."
+      "text": " I will see its id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=520"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 521.2,
       "end": 522.8,
-      "text": " Its id is this."
+      "text": " Its id is this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=521"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 522.8,
       "end": 524.8,
-      "text": " So I will copy its id."
+      "text": " So I will copy its id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=522"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 524.8,
       "end": 527.8,
-      "text": " And if I put a hashtag here."
+      "text": " And if I put a hashtag here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=524"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 527.8,
       "end": 529.0,
-      "text": " And this id."
+      "text": " And this id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=527"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 529.0,
       "end": 530.0,
-      "text": " Now if I hit enter,"
+      "text": " Now if I hit enter,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=529"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 530.0,
       "end": 531.2,
-      "text": " it will bring me here directly."
+      "text": " it will bring me here directly.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=530"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 531.2,
       "end": 532.2,
-      "text": " In ICDA 8."
+      "text": " In ICDA 8.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=531"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 532.2,
       "end": 534.4,
-      "text": " So you see, if I put it in incognito too."
+      "text": " So you see, if I put it in incognito too.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=532"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 534.4,
       "end": 537.6,
-      "text": " It will scroll me and show that particular id."
+      "text": " It will scroll me and show that particular id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=534"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 537.6,
       "end": 539.0,
-      "text": " You see, by scrolling,"
+      "text": " You see, by scrolling,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=537"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 539.0,
       "end": 541.0,
-      "text": " instead of showing me this,"
+      "text": " instead of showing me this,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=539"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 541.0,
       "end": 542.2,
-      "text": " it has shown me by scrolling."
+      "text": " it has shown me by scrolling.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=541"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 542.2,
       "end": 544.2,
-      "text": " Because it wants to bring me to this id."
+      "text": " Because it wants to bring me to this id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=542"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 544.2,
       "end": 546.2,
-      "text": " So id also works in linking."
+      "text": " So id also works in linking.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=544"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 546.2,
       "end": 547.2,
-      "text": " Remember this too."
+      "text": " Remember this too.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=546"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 547.2,
       "end": 548.6,
-      "text": " Very few people will tell you."
+      "text": " Very few people will tell you.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=547"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 548.6,
       "end": 550.0,
-      "text": " That you can also generate links."
+      "text": " That you can also generate links.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=548"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 550.0,
       "end": 552.8,
-      "text": " If you write an id by putting a hashtag in front of any link."
+      "text": " If you write an id by putting a hashtag in front of any link.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=550"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 552.8,
       "end": 554.2,
-      "text": " So when you open that link,"
+      "text": " So when you open that link,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=552"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 554.2,
       "end": 556.0,
-      "text": " it will focus that id."
+      "text": " it will focus that id.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=554"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 556.0,
       "end": 557.6,
-      "text": " Like it is giving me in this case."
+      "text": " Like it is giving me in this case.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=556"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 557.6,
       "end": 560.4,
-      "text": " You can see that as soon as I am hitting enter,"
+      "text": " You can see that as soon as I am hitting enter,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=557"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 560.4,
       "end": 562.0,
-      "text": " so maybe I have made the id wrong here."
+      "text": " so maybe I have made the id wrong here.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=560"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 562.0,
       "end": 563.0,
-      "text": " But you got the point."
+      "text": " But you got the point.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=562"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 563.0,
       "end": 563.8,
-      "text": " You got the point."
+      "text": " You got the point.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=563"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 563.8,
       "end": 565.8,
-      "text": " Here 29.29."
+      "text": " Here 29.29.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=563"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 565.8,
       "end": 567.2,
-      "text": " And if I hit enter,"
+      "text": " And if I hit enter,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=565"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 567.2,
       "end": 568.4,
-      "text": " then you see I have come down."
+      "text": " then you see I have come down.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=567"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 568.4,
       "end": 570.6,
-      "text": " If I open the incognito tab or reload it."
+      "text": " If I open the incognito tab or reload it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=568"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 570.6,
       "end": 571.8,
-      "text": " So you see I have come down."
+      "text": " So you see I have come down.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=570"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 571.8,
       "end": 573.4,
-      "text": " If I scroll it up too."
+      "text": " If I scroll it up too.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=571"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 573.4,
       "end": 576.1999999999999,
-      "text": " And after this, I open a new tab."
+      "text": " And after this, I open a new tab.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=573"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 576.1999999999999,
       "end": 578.1999999999999,
-      "text": " And if I do this,"
+      "text": " And if I do this,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=576"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 578.1999999999999,
       "end": 580.1999999999999,
-      "text": " then it is bringing me to the same page by scrolling."
+      "text": " then it is bringing me to the same page by scrolling.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=578"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 580.1999999999999,
       "end": 581.6,
-      "text": " On the page where this id is."
+      "text": " On the page where this id is.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=580"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 581.6,
       "end": 583.8,
-      "text": " So I hope you have understood id and classes."
+      "text": " So I hope you have understood id and classes.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=581"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 583.8,
       "end": 584.8,
-      "text": " Through this video."
+      "text": " Through this video.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=583"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 584.8,
       "end": 586.4,
-      "text": " Id means like Aadhar card."
+      "text": " Id means like Aadhar card.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=584"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 586.4,
       "end": 588.1999999999999,
-      "text": " Class means that a person's property."
+      "text": " Class means that a person's property.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=586"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 588.1999999999999,
       "end": 589.4,
-      "text": " Like he likes red."
+      "text": " Like he likes red.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=588"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 589.4,
       "end": 591.0,
-      "text": " Or in which class he is."
+      "text": " Or in which class he is.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=589"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 591.0,
       "end": 593.4,
-      "text": " One element can be given multiple classes."
+      "text": " One element can be given multiple classes.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=591"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 593.4,
       "end": 595.0,
-      "text": " One element can be of red color."
+      "text": " One element can be of red color.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=593"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 595.0,
       "end": 596.1999999999999,
-      "text": " Its background can be yellow."
+      "text": " Its background can be yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=595"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 596.1999999999999,
       "end": 597.1999999999999,
-      "text": " And the other element too."
+      "text": " And the other element too.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=596"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 597.2,
       "end": 599.0,
-      "text": " Its color can be red and background yellow."
+      "text": " Its color can be red and background yellow.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=597"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 599.0,
       "end": 601.2,
-      "text": " So red class can also be given on multiple elements."
+      "text": " So red class can also be given on multiple elements.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=599"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 601.2,
       "end": 603.6,
-      "text": " If you want, you can put red class on a fake element."
+      "text": " If you want, you can put red class on a fake element.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=601"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 603.6,
       "end": 605.6,
-      "text": " And in one element, you can also put red class."
+      "text": " And in one element, you can also put red class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=603"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 605.6,
       "end": 607.4000000000001,
-      "text": " You can also put BG yellow class."
+      "text": " You can also put BG yellow class.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=605"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 607.4000000000001,
       "end": 609.0,
-      "text": " So I hope you understood."
+      "text": " So I hope you understood.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=607"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 609.0,
       "end": 610.6,
-      "text": " So that's all for this video guys."
+      "text": " So that's all for this video guys.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=609"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 610.6,
       "end": 612.6,
-      "text": " I was reading captions and I laughed."
+      "text": " I was reading captions and I laughed.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=610"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 612.6,
       "end": 613.4000000000001,
-      "text": " Reading captions."
+      "text": " Reading captions.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=612"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 613.4000000000001,
       "end": 615.4000000000001,
-      "text": " So I told him to name the village."
+      "text": " So I told him to name the village.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=613"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 615.4000000000001,
       "end": 617.8000000000001,
-      "text": " And I laughed 5-10 times after hearing this."
+      "text": " And I laughed 5-10 times after hearing this.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=615"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 617.8000000000001,
       "end": 618.6,
-      "text": " Very fast."
+      "text": " Very fast.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=617"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 618.6,
       "end": 619.6,
-      "text": " I told him to access."
+      "text": " I told him to access.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=618"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 619.6,
       "end": 621.2,
-      "text": " Name your village and my name."
+      "text": " Name your village and my name.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=619"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 621.2,
       "end": 623.2,
-      "text": " So on this note,"
+      "text": " So on this note,",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=621"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 623.2,
       "end": 624.4000000000001,
-      "text": " access the playlist."
+      "text": " access the playlist.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=623"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 624.4000000000001,
       "end": 626.0,
-      "text": " Access GitHub too."
+      "text": " Access GitHub too.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=624"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 626.0,
       "end": 628.0,
-      "text": " Like the video."
+      "text": " Like the video.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=626"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 628.0,
       "end": 630.6,
-      "text": " And write hashtag SigmaBatchOP in the comment section."
+      "text": " And write hashtag SigmaBatchOP in the comment section.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=628"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 630.6,
       "end": 632.6,
-      "text": " Thank you so much guys for watching this video."
+      "text": " Thank you so much guys for watching this video.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=630"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 632.6,
       "end": 634.6,
-      "text": " And I will see you next time."
+      "text": " And I will see you next time.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=632"
     },
     {
       "number": "9",
       "title": "Id & Classes in HTML",
       "start": 656.0,
       "end": 658.6,
-      "text": " Thank you for watching it."
+      "text": " Thank you for watching it.",
+      "youtube_url": "https://youtu.be/vlAWzsGd-Yk?t=656"
     }
   ],
   "text": " In this video, I will tell you what are ID and Classes? The concept of ID and Classes is one of the most confused concepts. In fact, when I was learning HTML, I was very confused in my early days. ID means Unique Identifier. That is, if you give an ID to an element, you will not give that ID to the other element. But Class means that if you want to give a property to multiple elements, then you will give it multiple classes. For example, you can give a class named Red to a div and a form. Similarly, you can give a class named BGRed to an article tag and a header tag. Do like this video because we will now go to the computer screen and we will see these things very closely. Let's roll the intro. Alright guys, so I am back. And if you have not accessed the Sigma Web Development course, then access the playlist or click on the bookmark or click on save. And the source code is also being uploaded on GitHub. Now I will come here in the folder and quickly make a folder of video number 9. So I will make a folder of video 9 here. I will write here video 9. And after making a folder of video 9, I will right click and open with code. And here you can see that it has opened in BS code. Now I will write index.html here, I will enter with an exclamation mark. And along with that, I will tell you what are ID and classes. You must have an Aadhar card, right? If not, then you must have some ID. Now don't write in the comment that I don't have an ID. Whenever you go somewhere, you have to show your ID in some of the cases to prove your identity. That I am this. Now if you want to understand about ID and classes in HTML, then ID is what your identity is. Okay? What is it? It is your identity. So listen to a story here. This is John. Okay? And this is Harry. Okay? These two are very good friends. They are very good friends. They just don't share their lunch. And the rest are very good friends. Okay? In the matter of food, he is not the only one. And he is a friend in all other matters. Okay? And here you can see that this is John and Harry. Both of them have their own Aadhar ID. So this is my Aadhar number. And John's Aadhar number looks something like this. Okay? So this is John's Aadhar number. And this is my Aadhar number. Okay? Our Aadhar numbers can never be the same. Or if we assume that our friend is made. Assume my friend is made. Tanya and John's friend is made. Assume Shruti. Okay? So their Aadhar numbers will also be different. Okay? This is done. And this is Tanya's Aadhar number. Okay? This is Tanya's Aadhar number. Now, this Aadhar number will be different for every person. So John and Harry were friends. John's friend became Shruti. This is Tanya's Aadhar number. None of these four numbers are the same. These four Aadhar numbers. If I told you any of these Aadhar numbers. I said 35, 34, 5. You will understand that we are talking about Harry. And if I said 54, 56, 56, 7. You will understand that we are talking about Shruti. And if I said 34, 56, 85, 68, 63. So you will understand that we are talking about Tanya. So this Aadhar number uniquely identifies Tanya, Harry, Shruti and John. So what is this? This is their Aadhar number. That is, this is their ID. No one else will get this Aadhar number. Okay? Along with that, suppose John and Harry spent their childhood together. They both have big panties. And they studied in the same class. And the name of that class was Class 10th. Okay? Suppose they are in the 10th class. Okay? Suppose. What is said in believing? And Shruti is in class 9th. And Tanya is also in class 9th. Okay? So both are in class 9th. Okay? Tanya is also in class 9th. And Shruti is also in class 9th. So what is Shruti's class? It is 9th. Tanya's class can also be 9th. Brother, Shruti will not study alone in this class. Or Harry will not study alone in 10th class. There are other children in the class. So the meaning of class is that that in one class there is Harry and John. So can a class be multiple of one person? A class can be multiple of one person. Suppose Harry is in class 10th. And he goes to a tuition where he is in class 10A. Suppose there are classes in that tuition. So there can be more than one class. One is class 10th. And one is class 10A. And along with that, Suppose Harry wears a red T-shirt. So his class is also red. Okay? So the meaning of class is that the class is not being studied. The meaning of class is that it has been classified in this class. Consider it like this. Now come here. Leave John, Harry, Shruti now. Okay? Delete it. I will zoom out and delete it. Okay? It doesn't mean anything here. Now come to index.html and understand this. Suppose I made a div here. Okay? And I gave its class as red. Okay? And I made a span. And I gave its class as red. Okay? The classes that I have given, I can give them to different elements. Or the same class. Yes, I can. But if I want to put an ID in any element. Suppose I put its ID as first div. I can put anything in the ID. So I can't give this ID to any other element. Because this is its Aadhaar card. This is its Aadhaar card. If there is another div, I can't put it. Then I will have to put something else in the ID. Okay? I put the ID in the second div. Okay? And here I write second. And here I will write first. Okay? So this concept of ID and classes, I will tell you personally, I understood it very late. When I was learning WebDeveloper Pants in my early days. No one told me that ID uniquely identifies an element. And the class can put multiple classes in one element. And can put the same class in multiple elements. Do you understand? Like if I gave it a red class, I can also give it a BG yellow class. Okay? BG yellow. I can give only one class. And if we give a class to any element multiple, then we put a space. Like if I want multiple classes to be put in this element, then what will I do? First I will write red here. Then I will put a space and write BG yellow. So in this way I can give multiple classes. To the same element. Can I give multiple IDs to the same element? Have you ever heard of someone's two Aadhaar cards? Brother, someone made it from here and there. I don't know brother. But there are no Aadhaar cards of Adality. Aadhaar number is one for one person. And Aadhaar numbers cannot be the same for different people. Okay? One person cannot have multiple. Different people cannot have the same. But the class, that is, if I say which color t-shirt you wear, or five people can wear a red t-shirt. No problem. You will get it if you go on the road. And let's say you like mangoes, or like bananas, or like grapes, you will get multiple people. So assume that in the banana class. Or in the grapes class. Okay? In the mango class. So we can classify in one class. And we can give different elements to the same class. So I hope you understood this thing. Now I will write a little CSS here. And don't say that you are not reading CSS and writing. What am I writing in CSS now? You guys, I mean, just assume that I am writing some alien language. Okay? In style.css. But I am trying to make a point. I will click here. And here is the preview of it. It looks something like this. First and second. I will show you just one thing. I am... There is a class. How do we target it in CSS? We do it by dot. Dot red means red class. And hash first div means... Hash means id. Dot means class. Okay? If I say that the first div, make its background color red. Okay? So by making the background color red of the first div, its background color will be red. Okay? These are the selectors in CSS. And now I don't want to confuse you at all. And I can comment like this in CSS. Okay? But we will read all these things later. Now what I will do by dotting red? I will write background color red here. And along with that, what will I do in dot bg yellow? Dot bg yellow will be mine. I have to put a dot. Dot means class. It means class bg yellow. And I will make the background color yellow. Sorry, I will make it color red. I will not make the background color red. Dot red means its color should be red. See, its color is red. And the background color is yellow. So this way you can use id and classes in CSS. I hope you understood this. Now one thing to note here is very important. That id and classes are attributes of an element. This is id attribute. And this is class attribute. So if I ask what are id classes? Are they elements or not? They are attributes of elements. Now there is another use of id. I will tell you what is another use of id. If I take you to Wikipedia and I write coding. So this page of Wikipedia has come. Let's say I go to some other page, to some big page. So you see that when you go to any page on Wikipedia, then what can you do? You can take the link of that particular place. I will show you how this happens. I go to some other page. I scroll down. And here I will inspect. I will see its id. Its id is this. So I will copy its id. And if I put a hashtag here. And this id. Now if I hit enter, it will bring me here directly. In ICDA 8. So you see, if I put it in incognito too. It will scroll me and show that particular id. You see, by scrolling, instead of showing me this, it has shown me by scrolling. Because it wants to bring me to this id. So id also works in linking. Remember this too. Very few people will tell you. That you can also generate links. If you write an id by putting a hashtag in front of any link. So when you open that link, it will focus that id. Like it is giving me in this case. You can see that as soon as I am hitting enter, so maybe I have made the id wrong here. But you got the point. You got the point. Here 29.29. And if I hit enter, then you see I have come down. If I open the incognito tab or reload it. So you see I have come down. If I scroll it up too. And after this, I open a new tab. And if I do this, then it is bringing me to the same page by scrolling. On the page where this id is. So I hope you have understood id and classes. Through this video. Id means like Aadhar card. Class means that a person's property. Like he likes red. Or in which class he is. One element can be given multiple classes. One element can be of red color. Its background can be yellow. And the other element too. Its color can be red and background yellow. So red class can also be given on multiple elements. If you want, you can put red class on a fake element. And in one element, you can also put red class. You can also put BG yellow class. So I hope you understood. So that's all for this video guys. I was reading captions and I laughed. Reading captions. So I told him to name the village. And I laughed 5-10 times after hearing this. Very fast. I told him to access. Name your village and my name. So on this note, access the playlist. Access GitHub too. Like the video. And write hashtag SigmaBatchOP in the comment section. Thank you so much guys for watching this video. And I will see you next time. Thank you for watching it."
